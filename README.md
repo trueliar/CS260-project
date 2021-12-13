@@ -1,3 +1,5 @@
+## Report 
+The report for the project can be found [here](https://github.com/trueliar/CS260-project/blob/main/Project%20Report.pdf).
 # CDR
 
 ICLR‘2021: Robust Early-learning: Hindering the Memorization of Noisy Labels (PyTorch implementation).  
